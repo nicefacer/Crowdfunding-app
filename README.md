@@ -1,2 +1,7 @@
-# Crowdfunding-app
-Use this app to crowdfund your project and Mint NFt for each project you contribute on. Then redeem your NFT bonus  and funding
+# metis-dapp
+A Fundraising Next app on Metis Testnet
+## WHAT YOU CAN DO ?
+
+* YOU CAN RAISE A FUNDING
+* CONTRIBUTE TOFUNDING
+* WITHDRAW THE FUNDING IF 50% OF PEOPLE AGREE
