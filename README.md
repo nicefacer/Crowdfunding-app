@@ -1,7 +1,7 @@
-# metis-dapp
-A Fundraising Next app on Metis Testnet
+# Crowdfunding APP
+A Fundraising App for web3
 ## WHAT YOU CAN DO ?
 
 * YOU CAN RAISE A FUNDING
-* CONTRIBUTE TOFUNDING
-* WITHDRAW THE FUNDING IF 50% OF PEOPLE AGREE
+* CONTRIBUTE TO FUNDING
+* WITHDRAW THE FUNDING IF 33% OF PEOPLE AGREE
